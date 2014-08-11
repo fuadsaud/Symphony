@@ -1,0 +1,16 @@
+
+18:53:09 [CONFIG] (synphony.Synphony:<clinit>) --- Wed Jul 25 18:53:09 BRT 2012 - Synphony 0.0.1 - JRE 1.7.0_03 - Linux 3.2.0-25-generic amd64 - fuad
+18:54:58 [INFO] (synphony.file.Synchronizer:sync) Syncing... (FROM: /home/fuad/src TO: /home/fuad/tgt)
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:<init>) Source dir: /home/fuad/src Target dir: /home/fuad/tgt Size: 4096
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 4
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 8
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 1
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 2
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 9
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 7
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 6
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 3
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 10
+18:54:58 [INFO] (synphony.file.CopyFileVisitor:visitFile) Copying entry: 5
+18:54:58 [INFO] (synphony.file.Synchronizer:sync) Sync finished (239 milliseconds)
+

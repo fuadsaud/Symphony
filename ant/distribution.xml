@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_runnable_jar" name="Create the Distribution directory">
+	<property name="version" value="0.0.1" />
+	<property name="projects_dir" value="D:/Development/Projects/Java/SE/" />
+	<property name="dest_dir" value="${projects_dir}/synphony-${version}/" />
+
+	<!-- Creates the JAR file responsible to run the application -->
+	<target name="create_runnable_jar" depends="make_distribution_directory">
+		<jar destfile="${dest_dir}/synphony.jar">
+			<manifest>
+				<attribute name="Main-Class" value="synphony.Synphony" />
+				<attribute name="Class-Path" value=". libraries/miglayout-4.0-swing.jar" />
+			</manifest>
+			<fileset dir="${projects_dir}/Synphony/bin" />
+		</jar>
+		<delete dir="${dest_dir}/libraries" />
+		<copydir dest="${dest_dir}/libraries" src="${projects_dir}/Synphony/lib" />
+	</target>
+
+	<target name="make_distribution_directory">
+		<delete dir="${dest_dir}" />
+		<mkdir dir="${dest_dir}" />
+	</target>
+
+</project>

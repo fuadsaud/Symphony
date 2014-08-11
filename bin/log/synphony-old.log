@@ -1,0 +1,15 @@
+18:53:09 [INF] (Synphony.<clinit>:85) --- Wed Jul 25 18:53:09 BRT 2012 - Synphony 0.0.1 - JRE 1.7.0_03 - Linux 3.2.0-25-generic amd64 - fuad
+18:54:58 [INF] (Synchronizer.sync:58) Syncing... (FROM: /home/fuad/src TO: /home/fuad/tgt)
+18:54:58 [INF] (CopyFileVisitor.<init>:41) Source dir: /home/fuad/src Target dir: /home/fuad/tgt
+18:54:58 [DBG] (CopyFileVisitor.preVisitDirectory:49) Incoming dir: 
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 4
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 8
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 1
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 2
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 9
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 7
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 6
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 3
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 10
+18:54:58 [INF] (CopyFileVisitor.visitFile:66) Copying entry: 5
+18:54:58 [INF] (Synchronizer.sync:64) Sync finished (240 milliseconds)

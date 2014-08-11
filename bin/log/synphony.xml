@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298454</millis>
+  <sequence>1</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.Synchronizer</class>
+  <method>sync</method>
+  <thread>32</thread>
+  <message>Syncing... (FROM: /home/fuad/src TO: /home/fuad/tgt)</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298459</millis>
+  <sequence>2</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>&lt;init&gt;</method>
+  <thread>32</thread>
+  <message>Source dir: /home/fuad/src Target dir: /home/fuad/tgt Size: 4096</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298546</millis>
+  <sequence>3</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 4</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298661</millis>
+  <sequence>4</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 8</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298664</millis>
+  <sequence>5</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 1</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298668</millis>
+  <sequence>6</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 2</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298671</millis>
+  <sequence>7</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 9</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298674</millis>
+  <sequence>8</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 7</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298677</millis>
+  <sequence>9</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 6</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298681</millis>
+  <sequence>10</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 3</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298684</millis>
+  <sequence>11</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 10</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298689</millis>
+  <sequence>12</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.CopyFileVisitor</class>
+  <method>visitFile</method>
+  <thread>32</thread>
+  <message>Copying entry: 5</message>
+</record>
+<record>
+  <date>2012-07-25T18:54:58</date>
+  <millis>1343253298693</millis>
+  <sequence>13</sequence>
+  <logger>synphony.file</logger>
+  <level>INFO</level>
+  <class>synphony.file.Synchronizer</class>
+  <method>sync</method>
+  <thread>32</thread>
+  <message>Sync finished (239 milliseconds)</message>
+</record>
+</log>
